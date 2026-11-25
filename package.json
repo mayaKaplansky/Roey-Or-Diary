@@ -1,0 +1,7 @@
+{
+  "name": "roey-diary",
+  "private": true,
+  "description": "WhatsApp -> fluids & toilet tracking diary",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node test/local-test.js" }
+}
